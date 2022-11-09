@@ -4,4 +4,4 @@
 - git status
 - git diff
 - git remote -v
-
+- git log
